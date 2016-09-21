@@ -54,6 +54,6 @@ s.source           = { :git => 'https://github.com/playbasis/native-sdk-ios.git'
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'Alamofire'
-  s.dependency 'ObjectMapper', '1.4.0'
-  s.dependency 'SAMKeychain', '1.5.1'
+  s.dependency 'ObjectMapper'
+  s.dependency 'SAMKeychain'
 end
